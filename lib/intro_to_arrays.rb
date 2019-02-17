@@ -32,5 +32,6 @@ end
 
 programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
 def length_of_array(programming_languages)
-  length_of_array.index(0)
+  length = length_of_array
+  return length
 end
