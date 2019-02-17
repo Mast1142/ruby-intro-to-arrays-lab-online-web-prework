@@ -5,7 +5,7 @@ end
 
 def my_two_array
   my_two_array = ["Lion", "Pride"]
-  return my_two_array
+  return 
 end
 
 
