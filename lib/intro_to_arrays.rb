@@ -1,4 +1,4 @@
-def instantiate_new_array
+ def instantiate_new_array
   instantiate_new_array = []
   return instantiate_new_array
 end
@@ -23,5 +23,6 @@ end
 
 south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
 def first_element_with_array_methods(south_east_asia)
+  
   
 end
